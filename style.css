@@ -1,14 +1,14 @@
 body{
     background-color: #f0f2f5;
-
+@font-face {
+    font-family: 'KlavikaMedium';
+    src: url(./KlavikaMedium-TF.otf);
 }
 *{
     text-decoration: none;
 }
 
-@font-face {
-    font-family: 'KlavikaMedium';
-    src: url(./KlavikaMedium-TF.otf);
+
 }
 h1{
     font-family: 'KlavikaMedium';
