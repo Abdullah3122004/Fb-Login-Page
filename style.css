@@ -1,8 +1,5 @@
 body{
     background-color: #f0f2f5;
-@font-face {
-    font-family: 'KlavikaMedium';
-    src: url(./KlavikaMedium-TF.otf);
 }
 *{
     text-decoration: none;
@@ -11,7 +8,6 @@ body{
 
 }
 h1{
-    font-family: 'KlavikaMedium';
     color: #0866ff;
     font-size: 60px;
 
